@@ -11,3 +11,6 @@
 # Importing an Entire Module
 # Importing Specific Functions
 # Using as to Give a Function an Alias
+# Lambda fuction
+# map and filter function
+# Generator Function
