@@ -1,4 +1,4 @@
+from findallprimes.findallprimes import primes
 
-
-a:str='d'
-print(a)
+print(primes(10))
+print(primes(100))
