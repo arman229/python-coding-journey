@@ -2,8 +2,7 @@ from setuptools import setup, find_packages
 setup(
 name='findallprimes',
 version='0.1.0',
-author='arman1804',
-author_email='armanashraf015@gmail.com',
+author='ARMAN',
 description='This package finds all prime numbers from 2 to that number ',
 packages=find_packages(),
 classifiers=[

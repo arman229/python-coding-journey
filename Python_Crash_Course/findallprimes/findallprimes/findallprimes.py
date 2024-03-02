@@ -10,6 +10,6 @@ def primes(n:int)->list[int]:
             prime_list.append(num)
     return prime_list
 
-# Example usage:
+ 
  
  
