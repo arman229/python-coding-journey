@@ -1,0 +1,5 @@
+setup.py
+findallprimes.egg-info/PKG-INFO
+findallprimes.egg-info/SOURCES.txt
+findallprimes.egg-info/dependency_links.txt
+findallprimes.egg-info/top_level.txt
