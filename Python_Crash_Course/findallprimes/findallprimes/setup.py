@@ -1,14 +1,13 @@
-from setuptools import setup, find_packages
+from distutils.core import setup
+
 setup(
-name='findallprimes',
-version='0.1.0',
-author='ARMAN',
-description='This package finds all prime numbers from 2 to that number ',
-packages=find_packages(),
-classifiers=[
-'Programming Language :: Python :: 3',
-'License :: OSI Approved :: MIT License',
-'Operating System :: OS Independent',
-],
-python_requires='>=3.6',
+	name = 'findallprimes',
+	version = '1.0.0',
+	py_modules = ['findallprimes'],
+	author = 'Arman',
+	author_email = 'armanashraf015@gmail.com',
+	description = 'This package finds all prime numbers from 2 to that number'
 )
+
+ 
+ 

@@ -1,1 +1,1 @@
-
+findallprimes

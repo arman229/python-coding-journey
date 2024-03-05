@@ -1,3 +1,4 @@
+findallprimes.py
 setup.py
 findallprimes.egg-info/PKG-INFO
 findallprimes.egg-info/SOURCES.txt
