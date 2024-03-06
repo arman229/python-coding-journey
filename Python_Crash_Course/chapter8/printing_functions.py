@@ -1,6 +1,6 @@
  
-
-def print_models(unprinted_designs:list[str], completed_models:list[str]):
+from typing import Optional
+def print_models(unprinted_designs:list[str], completed_models:list[str|Optional[str]]):
    
     while unprinted_designs:
         current_design = unprinted_designs.pop() 

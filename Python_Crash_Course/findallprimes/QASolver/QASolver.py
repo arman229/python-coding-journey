@@ -22,4 +22,4 @@ class BookSolutions:
         return "Solution not found" if not matching_solutions else None
 
 book_solutions = BookSolutions()
-book_solutions.find_solution('')
+book_solutions.find_solution('Favorite Places: Make a dictionary called favorite_places. Think of three names to use as keys in the dictionary, and store one to three favorite places for each person. Loop through the dictionary, and print each person’s name and their favorite places.')
