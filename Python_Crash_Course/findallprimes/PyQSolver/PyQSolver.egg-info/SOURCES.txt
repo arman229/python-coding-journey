@@ -1,0 +1,7 @@
+PyQSolver.py
+README.md
+setup.py
+PyQSolver.egg-info/PKG-INFO
+PyQSolver.egg-info/SOURCES.txt
+PyQSolver.egg-info/dependency_links.txt
+PyQSolver.egg-info/top_level.txt

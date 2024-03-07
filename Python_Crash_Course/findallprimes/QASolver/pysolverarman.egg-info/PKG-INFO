@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: pysolverarman
+Version: 1.0.0
+Summary: Automatically find solutions to Python exercise questions by providing the question number or text as input. This package simplifies the process of obtaining solutions, allowing users to input either the question number or the question text in string format.
+Author: Arman
+Author-email: armanashraf015@gmail.com

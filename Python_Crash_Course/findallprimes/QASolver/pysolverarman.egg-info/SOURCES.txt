@@ -1,0 +1,5 @@
+setup.py
+pysolverarman.egg-info/PKG-INFO
+pysolverarman.egg-info/SOURCES.txt
+pysolverarman.egg-info/dependency_links.txt
+pysolverarman.egg-info/top_level.txt
